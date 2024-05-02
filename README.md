@@ -138,7 +138,7 @@ These improvements aim to enhance the system's efficiency, adaptability, and eff
 #
 ### Related Links
 
-[3D Marketability](https://github.com/sourceduty/3D_Marketability)
+[Design Marketability](https://chat.openai.com/g/g-CBEjzqq1V-design-marketability)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
