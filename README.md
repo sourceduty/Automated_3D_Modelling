@@ -7,7 +7,24 @@ Automated 3D model editing represents a significant leap forward in the field of
 The appeal of automated 3D model editing lies not only in its efficiency but also in its ability to maintain consistency across multiple models. It reduces the time and cost associated with manual editing and allows designers to focus on more creative aspects of model creation. Moreover, automated editing tools can handle vast quantities of data and complex models that would be too time-consuming and intricate for manual processes. As these tools evolve, they are expected to become more adept at understanding context and nuances of different modeling projects, leading to more personalized and precise edits. This progression marks a transformative phase in how digital content is crafted, promising a future where technology and creativity converge seamlessly.
 
 #
-### Structure Overview
+### Notes
+
+<details><summary>Automated 3D Model Generator</summary>
+<br>
+
+![Automated 3D Printing](https://github.com/sourceduty/Automated_3D_Modelling/assets/123030236/4b11682c-be40-474e-ba36-6162456a4d0e)
+
+An automated 3D model generator is a sophisticated tool designed to create three-dimensional digital models with minimal human oversight. These models find utility across several sectors including video games, virtual reality, industrial design, and 3D printing. Users specify key attributes such as size, texture, and color, which the system uses to automatically generate the model using algorithms. Advanced versions employ artificial intelligence and machine learning to enhance model quality and automate complex design choices, learning from existing designs to innovate new ones.
+
+This technology greatly benefits areas like gaming, where it can automate the creation of intricate 3D environments and characters, and healthcare, where it is used for designing anatomical models and custom prosthetics. In architecture and engineering, it facilitates rapid prototyping, and in fashion, it assists in designing virtual try-ons. The main advantages of automated 3D model generators include increased efficiency, scalability, and making 3D modeling accessible to non-experts.
+
+However, the technology does face challenges, including quality control, as automated models often require significant refinement, and the inability to fully capture detailed or organic forms without human input. Moreover, ethical and intellectual property concerns arise as AI systems may generate new designs by deriving from existing works. Despite these challenges, the future of automated 3D model generators looks promising with potential improvements in AI capabilities and computational power, possibly allowing these systems to take on tasks currently deemed too complex for automation.
+
+<br>
+</details>
+
+<details><summary>Concept Structure Overview</summary>
+<br>
 
 ##### 1. Insert and Automatically Edit Any 3D Model
 
@@ -71,15 +88,14 @@ The appeal of automated 3D model editing lies not only in its efficiency but als
 - Scalability Concerns: While the system aims to handle multiple models through automated processes, scaling this to handle 
   a vast number of diverse models could introduce challenges, particularly in maintaining consistency and quality of edits.
 
-#
 ### Standard Edit Template
 
 The predefined "standard edit" template stands as the cornerstone of efficient 3D model editing processes. Serving as a reference point imbued with industry best practices and aesthetic ideals, this template offers a consistent baseline against which both unedited and edited models are meticulously compared. In the initial stages, unedited models are scrutinized against this template to pinpoint areas of improvement, guiding the subsequent editing process. This systematic approach ensures that even the most rudimentary models undergo a thorough evaluation, setting the stage for enhancements that align with established standards of quality and precision.
 
 Moreover, the iterative nature of the "standard edit" template facilitates continuous refinement and evolution. Through ongoing assessments and comparisons, the template adapts dynamically to the evolving landscape of 3D modeling, incorporating insights gleaned from previous editing endeavors. This adaptive quality ensures that the template remains relevant and responsive, capable of accommodating emerging trends and innovative techniques. Ultimately, the "standard edit" template not only streamlines the editing workflow but also fosters a culture of excellence, driving the pursuit of mastery and perfection in the realm of 3D modeling.
 
-#
-### Notes
+<br>
+</details>
 
 <details><summary>Improvements for Automated 3D Model Editing Structure</summary>
 <br>
