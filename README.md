@@ -152,7 +152,7 @@ These improvements aim to enhance the system's efficiency, adaptability, and eff
 </details>
 
 #
-> Alex: *"Someone conveyed the idea of a programmable plan for automating 3D model edits to me over a year ago. I think that Automating 3D model generation and design could work but it's also very complicated."*
+> Alex: *"Someone conveyed the idea of a programmable plan for automating 3D model edits to me over a year ago. I think that automating 3D model generation and design could work but it's also very complicated."*
 #
 
 ### Related Links
