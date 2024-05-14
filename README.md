@@ -153,6 +153,8 @@ These improvements aim to enhance the system's efficiency, adaptability, and eff
 
 #
 > Alex: *"Someone conveyed the idea of a programmable plan for automating 3D model edits to me over a year ago. I think that automating 3D model generation and design could work but it's also very complicated."*
+
+> *"3D modelling and 3D printing is very time consuming and frustrating to me."*
 #
 
 ### Related Links
