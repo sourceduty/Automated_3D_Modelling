@@ -158,6 +158,8 @@ These improvements aim to enhance the system's efficiency, adaptability, and eff
 ### Related Links
 
 [Design Marketability](https://chat.openai.com/g/g-CBEjzqq1V-design-marketability)
+<br>
+[3D Model Imaging](https://chatgpt.com/g/g-UVfWgnoGR-3d-model-imaging)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
