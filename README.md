@@ -161,7 +161,21 @@ These improvements aim to enhance the system's efficiency, adaptability, and eff
 
 [Design Marketability](https://chat.openai.com/g/g-CBEjzqq1V-design-marketability)
 <br>
-[3D Model Imaging](https://chatgpt.com/g/g-UVfWgnoGR-3d-model-imaging)
+[Concept Design](https://github.com/sourceduty/Concept_Design)
+<br>
+[Cura Infocard](https://github.com/sourceduty/Cura_Infocard)
+<br>
+[Cults: Sourceduty](https://cults3d.com/en/users/sourceduty)
+<br>
+[Automated 3D Modelling](https://github.com/sourceduty/Automated_3D_Modelling)
+<br>
+[3D Model Imaging](https://github.com/sourceduty/3D_Model_Imaging)
+<br>
+[Cults 3D](https://github.com/sourceduty/Cults_3D)
+<br>
+[3D Printing](https://github.com/sourceduty/3D_Printing)
+<br>
+[3D Collaboration](https://github.com/sourceduty/3D_Collaboration)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
