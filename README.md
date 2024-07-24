@@ -167,8 +167,6 @@ These improvements aim to enhance the system's efficiency, adaptability, and eff
 <br>
 [Cults: Sourceduty](https://cults3d.com/en/users/sourceduty)
 <br>
-[Automated 3D Modelling](https://github.com/sourceduty/Automated_3D_Modelling)
-<br>
 [3D Model Imaging](https://github.com/sourceduty/3D_Model_Imaging)
 <br>
 [Cults 3D](https://github.com/sourceduty/Cults_3D)
