@@ -9,6 +9,8 @@ The appeal of automated 3D model editing lies not only in its efficiency but als
 #
 ### 3D GAN Models
 
+![3D GAN](https://github.com/user-attachments/assets/634e98a7-98b0-4d5e-923b-e3ba73f1a549)
+
 3D Generative Adversarial Networks (3D GANs) extend the concept of traditional GANs to generate three-dimensional data, like 3D objects or shapes. In a basic GAN, two neural networks—a generator and a discriminator—compete in a game where the generator tries to create realistic samples, and the discriminator attempts to distinguish between real and generated ones. A 3D GAN performs this process in the 3D space, often generating 3D voxel grids (a form of 3D pixels). The generator learns to create complex 3D structures by refining its ability to fool the discriminator, which gets better at identifying whether a 3D object is real or generated.
 
 Training a 3D GAN typically requires large datasets of 3D models and high computational resources due to the complexity of representing 3D shapes. Unlike traditional image-based GANs, where images are represented in 2D grids of pixels, 3D GANs represent objects in three dimensions, adding a layer of complexity. Many implementations use voxel grids, point clouds, or mesh representations to depict 3D objects. This requires more sophisticated architectures for both the generator and discriminator to process spatial information effectively. Furthermore, the loss functions and regularization techniques in 3D GANs are adjusted to handle the intricacies of 3D data.
