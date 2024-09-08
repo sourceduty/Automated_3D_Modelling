@@ -1,6 +1,8 @@
 ![3D Model Concept](https://github.com/sourceduty/Automated_3D_Modelling/assets/123030236/e9a5c56c-ec3d-402a-a7ab-f11070402cf2)
 
-### Automated 3D Model Editing
+> Refining and optimizing 3D models through advanced algorithms.
+
+#
 
 Automated 3D model editing represents a significant leap forward in the field of digital design and modeling. This technology streamlines the process of refining and optimizing 3D models through advanced algorithms that can automatically detect and correct imperfections, adjust geometrical alignments, and enhance textures without human intervention. By integrating machine learning and artificial intelligence, automated systems can learn from each editing process, continuously improving their accuracy and efficiency. This capability is crucial for industries such as gaming, animation, and virtual reality, where high-quality 3D models are essential for creating immersive and realistic environments.
 
