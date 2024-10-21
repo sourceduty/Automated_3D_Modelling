@@ -22,7 +22,7 @@ Applications of 3D GANs are broad and expanding. They are increasingly used in f
 #
 ### Generated 3D Environments
 
-![3D Generated](https://github.com/user-attachments/assets/51fe31a9-c496-46ee-91b7-4d76fbd415aa)
+![3D Generated](https://github.com/user-attachments/assets/32b60c76-7dfa-4155-ba3a-bf0f7745da47)
 
 3D environment generation refers to the process of creating three-dimensional, immersive spaces that can be used in virtual environments such as video games, simulations, or architectural visualizations. This involves creating models, textures, lighting, and dynamic elements to simulate real-world or fantastical environments. The development of 3D environments has been done through various traditional methods like manual modeling using software such as Blender or Maya, procedural generation, and the use of photogrammetry. While procedural generation automates aspects of the environment creation, it still often requires human intervention for final design choices and refinements.
 
